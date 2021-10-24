@@ -13,3 +13,5 @@ https://www.kaggle.com/ekrembayar/homecredit-default-risk-step-by-step-1st-noteb
 
 - P7_03_dashbord.py : code du dashboard, avec Streamlit.
 
+ - Déploiement avec Heroku : https://scoring-model.herokuapp.com
+
