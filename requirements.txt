@@ -5,3 +5,4 @@ plotly==5.3.1
 scikit-learn==0.24.1
 streamlit==0.89.0
 opencv-python-headless==4.5.2.52
+lightgbm==3.2.1
