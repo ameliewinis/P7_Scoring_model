@@ -283,7 +283,8 @@ with Graph:
                                          "Chartreuse","DeepPink", "Chartreuse","DeepPink", "Chartreuse","DeepPink",
                                          "Chartreuse","DeepPink", "Chartreuse","DeepPink", "Chartreuse","DeepPink",
                                          "Chartreuse","DeepPink", "Chartreuse","DeepPink", "Chartreuse","DeepPink"]))
-    fig.update_layout(yaxis_title = "Effectif ", yaxis_title_font_size=15,
+    fig.update_layout(xaxis_title = "Secteur d'activité ", xaxis_title_font_size=23,
+                      yaxis_title = "Effectifs ", yaxis_title_font_size=15,
                       margin=dict(l=0, r=0, t=20, b=10),
                       autosize=False, width = 800, height = 500)
    
